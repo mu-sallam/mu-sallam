@@ -1,8 +1,9 @@
 <div align="center">
 
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>  
+<h2>I'm <strong>Salma Lam</strong> 👩‍💻</h2>
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50%" alt="Hello World" />
 
