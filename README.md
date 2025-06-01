@@ -75,13 +75,12 @@ Currently leveling up with advanced JavaScript patterns, TypeScript, and animati
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /
-
-#### 🧠 Soft Skills  
+</p>
 <p>
-  <img src="https://img.shields.io/badge/Problem%20Solving-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Teamwork-teal?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Time%20Management-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Creativity-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-blue?style=for-the-badge" style="border-radius: 6px;" />
+  <img src="https://img.shields.io/badge/Teamwork-teal?style=for-the-badge" style="border-radius: 6px;" />
+  <img src="https://img.shields.io/badge/Time%20Management-orange?style=for-the-badge" style="border-radius: 6px;" />
+  <img src="https://img.shields.io/badge/Creativity-purple?style=for-the-badge" style="border-radius: 6px;" />
 </p>
 ---
 
