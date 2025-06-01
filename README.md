@@ -79,12 +79,7 @@ Currently leveling up with advanced JavaScript patterns, TypeScript, and animati
 
 ---
 #### 🧠 Soft Skills  
-<p>
-  <img src="https://img.shields.io/badge/Problem%20Solving-blue?style=for-the-badge" style="border-radius: 6px;" />
-  <img src="https://img.shields.io/badge/Teamwork-teal?style=for-the-badge" style="border-radius: 6px;" />
-  <img src="https://img.shields.io/badge/Time%20Management-orange?style=for-the-badge" style="border-radius: 6px;" />
-  <img src="https://img.shields.io/badge/Creativity-purple?style=for-the-badge" style="border-radius: 6px;" />
-</p>
+
 
 ### 📈 GitHub Stats
 
