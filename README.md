@@ -76,13 +76,15 @@ Currently leveling up with advanced JavaScript patterns, TypeScript, and animati
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /
 </p>
+
+---
+#### 🧠 Soft Skills  
 <p>
   <img src="https://img.shields.io/badge/Problem%20Solving-blue?style=for-the-badge" style="border-radius: 6px;" />
   <img src="https://img.shields.io/badge/Teamwork-teal?style=for-the-badge" style="border-radius: 6px;" />
   <img src="https://img.shields.io/badge/Time%20Management-orange?style=for-the-badge" style="border-radius: 6px;" />
   <img src="https://img.shields.io/badge/Creativity-purple?style=for-the-badge" style="border-radius: 6px;" />
 </p>
----
 
 ### 📈 GitHub Stats
 
