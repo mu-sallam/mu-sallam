@@ -1,13 +1,8 @@
 <div align="center">
 
-
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>  
-<h2>I'm <strong>Salma Lam</strong> 👩‍💻</h2>
-
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50%" alt="Hello World" />
 
-# 👋 Hi, I'm  muhammmad Sallam
+ 👋 muhammmad Sallam
 
 🎨 A passionate **Front-End Developer**  
 💻 I turn UI/UX designs into beautiful, responsive websites  
